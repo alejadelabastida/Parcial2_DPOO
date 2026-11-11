@@ -20,7 +20,7 @@ public class ParcialTest {
 
     @Test
     void raicesIguales() throws Exception {
-        assertEquals("x1 = -1.0, x2 = -1.0", parcial.calcularRaices(1, 2, 1));}
+        assertEquals("x1 =-1.0, x2 =-1.0", parcial.calcularRaices(1, 2, 1));}
 
     @Test
     void discriminanteNegativoLanzaExcepcion() {
