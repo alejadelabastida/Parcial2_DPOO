@@ -18,6 +18,6 @@ public class Parcial {
         double x1 = (-b + raiz) / (2 * a);
         double x2 = (-b - raiz) / (2 * a);
 
-        return "x1=" + x1 + ", x2=" + x2;
+        return "x1 =" + x1 + ", x2 =" + x2;
     }
 }
